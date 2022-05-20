@@ -2,3 +2,4 @@ cat > up_to_date
 touch up_to_date
 bash
 git bash
+git pull
